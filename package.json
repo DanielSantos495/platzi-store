@@ -1,5 +1,6 @@
 {
   "name": "platzi-store",
+  "homepage": "https://github.com/DanielSantos495/platzi-store",
   "version": "1.0.0",
   "description": "Proyecto para el curso de Jest",
   "main": "src/index.js",
@@ -66,7 +67,6 @@
   "bugs": {
     "url": "https://github.com/gndx/platzi-store/issues"
   },
-  "homepage": "https://github.com/gndx/platzi-store/#readme",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
